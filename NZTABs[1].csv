@@ -1,0 +1,570 @@
+name,outlet_type,address,city,region,latitude,longitude
+Grand Hotel Akaroa,PubTAB Full Service,"6 Rue Lavaud, Akaroa, New Zealand",Akaroa,Canterbury,-43.8006741,172.9702635
+Middle Pub,PubTAB Full Service,"3/13 Tarbert Street, Alexandra, New Zealand",Alexandra,Otago,-45.2577764,169.393243
+Stadium Tavern Alexandra,PubTAB Self Service Only,"143 Centennial Avenue, Alexandra, New Zealand",Alexandra,Otago,-45.2454127,169.3820379
+Railway Hotel Amberley,PubTAB Self Service Only,"40 Douglas Road, Amberley, New Zealand",Amberley,Canterbury,-43.1526073,172.7245387
+New Orleans Hotel,PubTAB Self Service Only,"27 Buckingham Street, Arrowtown, New Zealand",Arrowtown,Otago,-44.9383641,168.831702
+Devon Tavern,PubTAB Full Service,"116 Victoria Street, Allenton, Ashburton, New Zealand",Ashburton,Canterbury,-43.9042982,171.7532083
+Ashburton MSA,PubTAB Full Service,"266 Havelock Street, Ashburton, New Zealand",Ashburton,Canterbury,-43.9049377,171.7498128
+Hotel Ashburton,PubTAB Full Service,"11 Racecourse Road, Ashburton, New Zealand",Ashburton,Canterbury,-43.8897717,171.7649545
+The Phat Duck Brew Bar and Kitchen,PubTAB Self Service Only,"360 West Street, Ashburton, New Zealand",Ashburton,Canterbury,-43.8967445,171.7584292
+Ashhurst Memorial RSA,ClubTAB Self Service Only,"74 Cambridge Avenue, Ashhurst, New Zealand",Ashhurst,Manawatu-Wanganui,-40.29159,175.7547655
+O'Hagans,PubTAB Self Service Only,"103 Custom Street, West Viaduct, Auckland Central, Auckland, New Zealand",Auckland,Auckland,-36.8432896,174.7621792
+Auckland Trotting Club,TAB Store,"Gate B, Greenlane West Road, Epsom, Auckland, New Zealand",Auckland,Auckland,-36.8910463,174.7779907
+Workshop,PubTAB Self Service Only,"Kelston Shopping Centre, Cnr Great North Road & West Coast Road, Kelston, Auckland, New Zealand",Auckland,Auckland,-36.909364,174.6636899
+Miss Q's,PubTAB Self Service Only,"Shop L2, Westgate Shopping Centre, Fernhill Drive, Massey, Auckland, New Zealand",Auckland,Auckland,-36.8209746,174.6128923
+Hops & Hooves,PubTAB Full Service,"Shops 9&10, 945A New North Road, Mt Albert, Auckland, New Zealand",Auckland,Auckland,-36.885157,174.7142192
+Garrison Public House,PubTAB Self Service Only,"Shop 60, 286 Mt Wellington Highway, Mt Wellington, Auckland, New Zealand",Auckland,Auckland,-36.9145359,174.8391821
+Otahuhu Club,ClubTAB Self Service Only,"Level 1, 435 Great South Road, Otahuhu, Auckland, New Zealand",Auckland,Auckland,-36.9450554,174.8442586
+The Race Place,PubTAB Full Service,"19c Fair Mall Otara Shopping Centre, Bairds Road, Otara, Auckland, New Zealand",Auckland,Auckland,-36.9611828,174.8736046
+1 Up Sports Bar,PubTAB Full Service,"1 Upland Road, , Remuera, Auckland, New Zealand",Auckland,Auckland,-36.8802123,174.8118339
+Mangere TAB,TAB Store,"42 Orly Avenue, Mangere, Auckland, New Zealand",Auckland,Auckland,-36.9696362,174.7972423
+Mayfield Sportshouse,TAB Store,"172 Wairau Road, Wairau Valley, Auckland, New Zealand",Auckland,Auckland,-36.7706421,174.7369807
+Somerville,TAB Store,"109A Meadowland Drive, Somerville, Auckland, New Zealand",Auckland,Auckland,-36.9127069,174.930278
+Panmure Tavern,PubTAB Full Service,"163 Queens Road, Panmure, Auckland, New Zealand",Auckland,Auckland,-36.9007309,174.8560572
+Mangere Bridge TAB,TAB Store,"123 Coronation Road, Mangere Bridge, Auckland, New Zealand",Auckland,Auckland,-36.9492876,174.7905086
+Clendon Inn,PubTAB Full Service,"441 Roscommon Road, Weymouth, Auckland, New Zealand",Auckland,Auckland,-37.0316693,174.8687288
+Grey Lynn RSC,PubTAB Full Service,"1/3 Francis Street, Grey Lynn, Auckland, New Zealand",Auckland,Auckland,-36.8589928,174.7302052
+Right Track Sports Cafe,PubTAB Full Service,"4 Fort Street, Auckland Central, Auckland, New Zealand",Auckland,Auckland,-36.8458454,174.7669941
+Albany TAB,TAB Store,"1/15 Mercari Way, Albany, Auckland, New Zealand",Auckland,Auckland,-36.7318581,174.7089701
+Inn Field,PubTAB Full Service,"409 Glenfield Road, Glenfield, Auckland, New Zealand",Auckland,Auckland,-36.7809679,174.7217361
+Newmarket Branch,TAB Store,"12 Teed Street, Newmarket, Auckland, New Zealand",Auckland,Auckland,-36.8687334,174.7761426
+Glen Innes Branch,TAB Store,"219 Taniwha Street, Glen Innes, Auckland, New Zealand",Auckland,Auckland,-36.8773206,174.8560365
+The Banque,PubTAB Full Service,"23 Maskell Street, St Heliers, Auckland, New Zealand",Auckland,Auckland,-36.8592304,174.8613113
+Richardsons Restaurant Bar,PubTAB Full Service,"211 Richardsons Road, Mount Roskill, Auckland, New Zealand",Auckland,Auckland,-36.9004616,174.7192078
+Glen Eden TAB,TAB Store,"5-9 Captain Scott Road, Glen Eden, Auckland, New Zealand",Auckland,Auckland,-36.9117676,174.6526032
+New Lynn Branch,TAB Store,"6/3041 Great North Road, New Lynn, Auckland, New Zealand",Auckland,Auckland,-36.9063758,174.6845668
+Henderson TAB,TAB Store,"344 Great North Road, Henderson, Auckland, New Zealand",Auckland,Auckland,-36.8799879,174.633514
+Sky City TAB,PubTAB Self Service Only,"Federal House, 86 Federal Street, Auckland, New Zealand",Auckland,Auckland,-36.8488981,174.7624822
+The Old Albany Pub,PubTAB Full Service,"276 Dairy Flat Highway, Albany, Auckland, New Zealand",Auckland,Auckland,-36.7221969,174.6920441
+Manurewa Cosy Club,PubTAB Full Service,"6 Alfriston Road, Manurewa East, Auckland, New Zealand",Auckland,Auckland,-37.0226379,174.8998614
+Headin Home,PubTAB Full Service,"333 Ti Rakau Drive, Pakuranga, Auckland, New Zealand",Auckland,Auckland,-36.9282096,174.9006368
+Hunters Inn,PubTAB Full Service,"22 Charles Street, Papatoetoe, Auckland, New Zealand",Auckland,Auckland,-36.9692335,174.8621379
+Albion Hotel,PubTAB Self Service Only,"119 Hobson Street, Auckland Central, Auckland, New Zealand",Auckland,Auckland,-36.8495821,174.7607264
+Remuera Club,PubTAB Full Service,"27/33 Ohinerau Street, Remuera, Auckland, New Zealand",Auckland,Auckland,-36.8860861,174.7976681
+Prospect Of Howick,PubTAB Full Service,"78 Picton Street, Howick, Auckland, New Zealand",Auckland,Auckland,-36.8941829,174.9322257
+Howick Club,PubTAB Full Service,"107 Botany Road, Howick, Auckland, New Zealand",Auckland,Auckland,-36.9091204,174.9173696
+Onehunga WMC,PubTAB Full Service,"158 The Mall, Onehunga, Auckland, New Zealand",Auckland,Auckland,-36.9235197,174.7852712
+Trident Tavern,PubTAB Self Service Only,"69 Selwyn Street, Onehunga, Auckland, New Zealand",Auckland,Auckland,-36.9215843,174.783158
+Avondale RSA,ClubTAB Self Service Only,"48 Rosebank Road, Avondale, Auckland, New Zealand",Auckland,Auckland,-36.8947768,174.697793
+Jax Sports Bar & Pool Hall,PubTAB Self Service Only,"1 Wellesley Street West, Auckland Central, Auckland, New Zealand",Auckland,Auckland,-36.8506272,174.7641534
+Edinburgh Castle,PubTAB Self Service Only,"215 Symonds Street, Eden Terrace, Auckland, New Zealand",Auckland,Auckland,-36.863901,174.7607006
+Bays Club Inc,ClubTAB Self Service Only,"6 Anzac Road, Browns Bay, Auckland, New Zealand",Auckland,Auckland,-36.7170503,174.7488593
+The Good Home,PubTAB Self Service Only,"83 Birkenhead Avenue, Birkenhead, Auckland, New Zealand",Auckland,Auckland,-36.8105559,174.7260426
+Birkenhead Bowling Club,ClubTAB Self Service Only,"93 Mokoia Road, Birkenhead, Auckland, New Zealand",Auckland,Auckland,-36.8114972,174.7223437
+The Elephant Wrestler,PubTAB Self Service Only,"138 Hurstmere Road, Takapuna, Auckland, New Zealand",Auckland,Auckland,-36.784919,174.7732252
+Tactics Sportsbar,PubTAB Self Service Only,"13 Aviemore Drive, Highland Park, Auckland, New Zealand",Auckland,Auckland,-36.9006212,174.9050462
+Landmark Bar,PubTAB Self Service Only,"163 Queens Road, Panmure, Auckland, New Zealand",Auckland,Auckland,-36.9007309,174.8560572
+Doolan Brothers Ellerslie,PubTAB Self Service Only,"3 Robert Street, Ellerslie, Auckland, New Zealand",Auckland,Auckland,-36.8971957,174.8086226
+DiceyReillys,PubTAB Self Service Only,"570 Hillsborough Road, Mount Roskill, Auckland, New Zealand",Auckland,Auckland,-36.9258726,174.7227564
+Jacks Bar,PubTAB Full Service,"Unit 8/14 Rocklands Avenue, Mt Eden, Auckland, New Zealand",Auckland,Auckland,-36.8884381,174.7488308
+Arthurs Bar,PubTAB Self Service Only,"267D Onehunga Mall, Onehunga, Auckland, New Zealand",Auckland,Auckland,-36.9202828,174.7854348
+Outside Obie,PubTAB Self Service Only,"300 Dominion Road, Mount Eden, Auckland, New Zealand",Auckland,Auckland,-36.8779981,174.7505974
+The Crown,PubTAB Self Service Only,"1104 Great North Road, Point Chevalier, Auckland, New Zealand",Auckland,Auckland,-36.8695239,174.7136647
+Glen Eden RSA,ClubTAB Self Service Only,"9 Glendale Road, Glen Eden, Auckland, New Zealand",Auckland,Auckland,-36.910621,174.6494759
+New Lynn RSA,PubTAB Full Service,"2 Veronica Avenue, New Lynn, Auckland, New Zealand",Auckland,Auckland,-36.907935,174.6878104
+Swanson Memorial RSA,ClubTAB Self Service Only,"663 Swanson Road, Swanson, Auckland, New Zealand",Auckland,Auckland,-36.8645859,174.5854645
+Te Atatu Memorial RSA,ClubTAB Self Service Only,"1 Harbour View Road, Te Atatu Peninsula, Auckland, New Zealand",Auckland,Auckland,-36.8409382,174.6536051
+Pt Chevalier Bowling Club,ClubTAB Self Service Only,"25 Dignan Street, Point Chevalier, Auckland, New Zealand",Auckland,Auckland,-36.8585304,174.7041007
+Mt Wellington Agency,TAB Store,"Shop 16, 295 Penrose Road, Mt Wellington, Auckland Central, New Zealand",Auckland Central,Auckland,-36.9083304,174.8377048
+Penrose (New),TAB Store,"Unit B, 531 Great South Road, Penrose, Auckland Central, New Zealand",Auckland Central,Auckland,-36.9075327,174.8117178
+Royal Oak Branch,TAB Store,"Shop 25 Royal Oak Mall, 691 Manukau Road, Royal Oak, Auckland Central, New Zealand",Auckland Central,Auckland,-36.9103582,174.7746753
+Mt Roskill Branch,TAB Store,"368 Mt Albert Road, Mt Roskill, Auckland Central, New Zealand",Auckland Central,Auckland,-36.9042391,174.7414256
+Victoria Street TAB,TAB Store,"23 Victoria Street West, Auckland Central, New Zealand",Auckland Central,Auckland,-36.8486455,174.7646299
+Botany TAB,TAB Store,"Unit M, 451 Ti Rakau Drive, Botany Downs, Auckland East, New Zealand",Auckland East,Auckland,-36.9297145,174.9093019
+Birkenhead TAB,TAB Store,"Shop 3, 72-74 Mokoia Road, Birkenhead, Auckland North, New Zealand",Auckland North,Auckland,-36.8120391,174.7235709
+Flatbush,TAB Store,"Unit 18, 302 Te Irirangi Drive, Flatbush, Auckland South, New Zealand",Auckland South,Auckland,-36.9627383,174.9019334
+Manukau City,TAB Store,"Shop 2, 639 Great South Road, Manukau City, Auckland South, New Zealand",Auckland South,Auckland,-36.988989,174.882283
+Manurewa,TAB Store,"Southmall Shopping Centre, 185 Great South Road, Manurewa, Auckland South, New Zealand",Auckland South,Auckland,-37.0224148,174.8965239
+Pukekohe (New),TAB Store,"Shop 2, 65 Edinburgh Street, Pukekohe, Auckland South, New Zealand",Auckland South,Auckland,-37.1995545,174.9039869
+Otahuhu,TAB Store,"9 Avenue Road, Otahuhu, Auckland South, New Zealand",Auckland South,Auckland,-36.9432342,174.8439332
+Hunters Corner,TAB Store,"274 Great South Road, Papatoetoe, Auckland South, New Zealand",Auckland South,Auckland,-36.9717786,174.8626794
+Papakura,TAB Store,"2A/6 Averill Street, Papakura, Auckland South, New Zealand",Auckland South,Auckland,-37.0633532,174.94412
+Lincoln Road TAB,TAB Store,"226 Lincoln Road, Henderson, Auckland West, New Zealand",Auckland West,Auckland,-36.8573114,174.6299903
+Hotel South Otago,PubTAB Self Service Only,"13 Clyde Street, Balclutha, New Zealand",Balclutha,Otago,-46.2371816,169.7415835
+Springlands Tavern (New),PubTAB Full Service,"18 Boyce Street, Springlands, Blenheim, New Zealand",Blenheim,Marlborough,-41.5095913,173.9407102
+Grove Tav Blenheim,PubTAB Full Service,"77 Grove Road, Mayfield, Blenheim, New Zealand",Blenheim,Marlborough,-41.50243,173.9605975
+Woodbourne Tavern,PubTAB Full Service,"78/82 High Street, Renwick, Blenheim, New Zealand",Blenheim,Marlborough,-41.5081351,173.8252257
+Clubs Of Marlborough,PubTAB Full Service,"42 Alfred Street, Blenheim, New Zealand",Blenheim,Marlborough,-41.5104381,173.9570516
+Redwood Blenheim,PubTAB Self Service Only,"66 Cleghorn Street, Blenheim, New Zealand",Blenheim,Marlborough,-41.5300373,173.9561059
+Royal Hotel Blenheim,PubTAB Full Service,"7 Grove Road, Blenheim, New Zealand",Blenheim,Marlborough,-41.5101582,173.9586666
+Golden Age Tavern Bluff,PubTAB Full Service,"86 Gore Street, Bluff, New Zealand",Bluff,Southland,-46.5991807,168.3441837
+Rangitikei Tavern,PubTAB Full Service,"Bridge and High Streets, Bulls, New Zealand",Bulls,Manawatu-Wanganui,-40.1745751,175.3848403
+Bunnythorpe Tavern,PubTAB Self Service Only,"Main Road, Bunnythorpe, New Zealand",Bunnythorpe,Manawatu-Wanganui,-40.2816338,175.6298668
+Leamington Tavern,PubTAB Self Service Only,"9 Campbell Street, Leamington, Cambridge, New Zealand",Cambridge,Waikato,-37.9063832,175.4737115
+Cambridge,TAB Store,"Cnr Duke & Commerce Streets, Cambridge, New Zealand",Cambridge,Waikato,-37.8949253,175.4701831
+The Clubhouse Cafe & Sportsbar,PubTAB Full Service,"Taylor Street, Cambridge, New Zealand",Cambridge,Waikato,-37.8805085,175.4691449
+Marquis of Normanby Hotel,PubTAB Full Service,"63 High Street North, Carterton, New Zealand",Carterton,Wellington,-41.0237324,175.5283668
+Ev's Bar,PubTAB Self Service Only,"3 Belvedere Road, Carterton, New Zealand",Carterton,Wellington,-41.0229117,175.5284795
+Royal Oak Hotel,PubTAB Full Service,"321 High Street South, Carterton, New Zealand",Carterton,Wellington,-41.0367032,175.5161023
+Hotel Chathams,PubTAB Full Service,"Waterfront Road, Waitangi, Chatham Islands, New Zealand",Chatham Islands,Canterbury,-43.9510231,-176.5605917
+Cheviot Trust Hotel,PubTAB Self Service Only,"43 Hall Street, Cheviot, New Zealand",Cheviot,Canterbury,-42.8108713,173.2741623
+Barrington Branch,TAB Store,"Barrington Mall, 252A Barrington Street, Spreydon, Christchurch, New Zealand",Christchurch,Canterbury,-43.5572395,172.6188864
+The Swamp,PubTAB Full Service,"670 Main South Road, Islington, Christchurch, New Zealand",Christchurch,Canterbury,-43.5485042,172.4918042
+Craythornes Hotel,PubTAB Full Service,"344 Halswell Road, Halswell, Christchurch, New Zealand",Christchurch,Canterbury,-43.5795473,172.5664339
+Racecourse Riccarton,PubTAB Full Service,"118 Racecourse Road, Riccarton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5331546,172.5474063
+Bush Inn,TAB Store,"364 Riccarton Road, Riccarton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5314231,172.574728
+Coasters Tavern,PubTAB Full Service,"282 Daniels Road, Redwood, Christchurch, New Zealand",Christchurch,Canterbury,-43.4785288,172.622281
+Avonhead Tavern,PubTAB Full Service,"120 Withells Road, Avonhead, Christchurch, New Zealand",Christchurch,Canterbury,-43.5169678,172.5534755
+Bishopdale,TAB Store,"333 Harewood Road, Bishopdale, Christchurch, New Zealand",Christchurch,Canterbury,-43.4878942,172.586403
+Parklands Tavern,PubTAB Full Service,"6 Inwoods Road, Parklands, Christchurch, New Zealand",Christchurch,Canterbury,-43.4815199,172.6984309
+Woolston Club,PubTAB Full Service,"43 Hargood Street, Woolston, Christchurch, New Zealand",Christchurch,Canterbury,-43.5443716,172.6805258
+Rose & Thistle,PubTAB Full Service,"24A Main North Road, Papanui, Christchurch, New Zealand",Christchurch,Canterbury,-43.4956576,172.6087397
+Shirley Branch,TAB Store,"122 Marshland Road, Shirley, Christchurch, New Zealand",Christchurch,Canterbury,-43.4989292,172.6622932
+Hornby WMC & MSA,PubTAB Full Service,"17 Carmen Road, Hornby, Christchurch, New Zealand",Christchurch,Canterbury,-43.5420153,172.5254534
+Oxford WMC,ClubTAB Self Service Only,"160 High Street, Oxford, Christchurch, New Zealand",Christchurch,Canterbury,-43.2937767,172.197749
+Belfast Tavern,PubTAB Full Service,"899 Main North Road, Belfast, Christchurch, New Zealand",Christchurch,Canterbury,-43.4378999,172.6369093
+Cashmere Club,PubTAB Full Service,"88 Hunter Terrace, Cashmere, Christchurch, New Zealand",Christchurch,Canterbury,-43.5631456,172.6394324
+Sandridge Hotel,PubTAB Full Service,"30 Huxley Street, Sydenham, Christchurch, New Zealand",Christchurch,Canterbury,-43.5506989,172.6383203
+Miller Bar & Cafe,PubTAB Self Service Only,"308 Lincoln Road, Addington, Christchurch, New Zealand",Christchurch,Canterbury,-43.5436658,172.6120264
+Yaldhurst Hotel,PubTAB Full Service,"15 Main West Coast Road, RD 6, Christchurch, New Zealand",Christchurch,Canterbury,-43.5123112,172.506424
+Big Daddy's on Blenheim Road,PubTAB Self Service Only,"280 Blenheim Road, Upper Riccarton, Christchurch, New Zealand",Christchurch,Canterbury,-43.538094,172.586258
+Equestrian Hotel,PubTAB Self Service Only,"6 Tower Street, Hornby, Christchurch, New Zealand",Christchurch,Canterbury,-43.5443688,172.5262296
+Redwood Hotel TAB,PubTAB Self Service Only,"340 Main North Road, Redwood, Christchurch, New Zealand",Christchurch,Canterbury,-43.474422,172.6177406
+Papanui Club,PubTAB Full Service,"302 Sawyers Arms Road, Harewood, Christchurch, New Zealand",Christchurch,Canterbury,-43.4799788,172.5892842
+St Albans Shirley Club,ClubTAB Self Service Only,"269 Hills Road, Shirley, Christchurch, New Zealand",Christchurch,Canterbury,-43.502833,172.6513506
+MacKenzies Hotel,PubTAB Full Service,"51 Pages Road, Linwood, Christchurch, New Zealand",Christchurch,Canterbury,-43.5238012,172.6854877
+Waimakariri Tavern,PubTAB Self Service Only,"1276 Main North Road, Kainga, Christchurch, New Zealand",Christchurch,Canterbury,-43.4187722,172.6531529
+Tai Tapu Hotel,PubTAB Self Service Only,"780 Old Tai Tapu Road, Tai Tapu, Christchurch, New Zealand",Christchurch,Canterbury,-43.6571258,172.556109
+Springston Hotel,PubTAB Self Service Only,"156 Leeston Road, RD 4, Christchurch, New Zealand",Christchurch,Canterbury,-43.6566149,172.4213447
+Armadillo's Beckenham,PubTAB Self Service Only,"155 Colombo Street, Sydenham, Christchurch, New Zealand",Christchurch,Canterbury,-43.5566641,172.6365145
+Black Horse,PubTAB Full Service,"33 Lincoln Road, Addington, Christchurch, New Zealand",Christchurch,Canterbury,-43.5517988,172.5975031
+Bills Bar & Bistro,PubTAB Self Service Only,"1 Halswell Road, Hoon Hay, Christchurch, New Zealand",Christchurch,Canterbury,-43.5538717,172.5946277
+Spectators,TAB Store,"65 Jack Hinton Drive, Addington, Christchurch, New Zealand",Christchurch,Canterbury,-43.5462993,172.6025485
+Wilsons Sports Bar,PubTAB Full Service,"25 Riccarton Road, Riccarton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5291502,172.6096489
+Robbies Riccarton,PubTAB Self Service Only,"87 Riccarton Road, Riccarton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5297577,172.6032132
+Bridge Tavern,PubTAB Self Service Only,"587 Springs Road, Prebbleton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5810645,172.5123635
+West Melton Tavern,PubTAB Self Service Only,"1147 West Coast Road, West Melton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5242769,172.3694263
+Golden Mile Tavern,PubTAB Self Service Only,"2 Trents Road, Templeton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5550243,172.474383
+Cranford Ale House,PubTAB Self Service Only,"305 Cranford Street, St Albans, Christchurch, New Zealand",Christchurch,Canterbury,-43.4986605,172.6287044
+The Elmwood,PubTAB Self Service Only,"1 Normans Road, Strowan, Christchurch, New Zealand",Christchurch,Canterbury,-43.5097528,172.6066071
+Bishop Brothers Bar & Restaurant,PubTAB Full Service,"119 Farrington Avenue, Bishopdale, Christchurch, New Zealand",Christchurch,Canterbury,-43.490324,172.5869787
+Little Brown Jug,PubTAB Self Service Only,"290 Wairakei Road, Burnside, Christchurch, New Zealand",Christchurch,Canterbury,-43.4992971,172.5859661
+Bealey Ale Steak House,PubTAB Self Service Only,"263 Bealey Avenue, Christchurch Central, Christchurch, New Zealand",Christchurch,Canterbury,-43.5204207,172.6442638
+Opawa Bowl & Jack Bar & Grill,PubTAB Full Service,"15 Opawa Road, Opawa, Christchurch, New Zealand",Christchurch,Canterbury,-43.5475589,172.6547336
+Glenbyre Tavern,PubTAB Full Service,"111 Keighleys Road, Bromley, Christchurch, New Zealand",Christchurch,Canterbury,-43.5406976,172.6879574
+The Sideline Sports Bar,PubTAB Self Service Only,"331 Stanmore Road, Richmond, Christchurch, New Zealand",Christchurch,Canterbury,-43.5183816,172.6560127
+Valley Inn,PubTAB Self Service Only,"2 Flavell Street, Heathcote Valley, Christchurch, New Zealand",Christchurch,Canterbury,-43.5773575,172.7085142
+Woolston Sports Bar,PubTAB Self Service Only,"669 Ferry Road, Woolston, Christchurch, New Zealand",Christchurch,Canterbury,-43.5486203,172.6821006
+Schroeders Tavern,PubTAB Self Service Only,"680 Barbadoes Street, St Albans, Christchurch, New Zealand",Christchurch,Canterbury,-43.5085714,172.6461247
+New Brighton WMC,ClubTAB Self Service Only,"202 Marine Parade, New Brighton, Christchurch, New Zealand",Christchurch,Canterbury,-43.5057102,172.7298596
+Chats Bar,PubTAB Self Service Only,"251 Travis Road, New Brighton, Christchurch, New Zealand",Christchurch,Canterbury,-43.4950117,172.7106555
+The Fitz Sports Bar,PubTAB Full Service,"331 Cashel Street, Christchurch, New Zealand",Christchurch,Canterbury,-43.5328421,172.6500593
+Carlton Bar & Eatery,PubTAB Self Service Only,"1 Papanui Road, Christchurch, New Zealand",Christchurch,Canterbury,-43.5205115,172.6274392
+Christchurch Casino,PubTAB Self Service Only,"31 Victoria Street, Christchurch, New Zealand",Christchurch,Canterbury,-43.5263902,172.6330741
+Richmond WMC New,ClubTAB Self Service Only,"75 London Street, Christchurch, New Zealand",Christchurch,Canterbury,-43.5195956,172.6557654
+Stockxchange Bar,PubTAB Self Service Only,"112 Marshland Road, Christchurch, New Zealand",Christchurch,Canterbury,-43.4998634,172.6620454
+The Club Tavern,PubTAB Full Service,"441 Colombo Street, Christchurch, New Zealand",Christchurch,Canterbury,-43.5437765,172.6362034
+The Rockpool,PubTAB Self Service Only,"85 Hereford Street, Christchurch, New Zealand",Christchurch,Canterbury,-43.5318317,172.6346539
+The Wave Bar,PubTAB Self Service Only,"2 New Brighton Mall, Christchurch, New Zealand",Christchurch,Canterbury,-43.506985,172.7295572
+Clarks Beach Golf Club,PubTAB Self Service Only,"100 Stevenson Road, Clarks Beach, New Zealand",Clarks Beach,West Coast,-37.1400062,174.6994807
+Pauanui Sports & Recreation Club,PubTAB Self Service Only,"31 Sheppard Avenue, Pauanui Beach, Coromandel, New Zealand",Coromandel,Waikato,-37.0209873,175.8600567
+Admirals Arms Hotel,PubTAB Self Service Only,"146 Wharf Road, Coromandel, New Zealand",Coromandel,Waikato,-36.7604859,175.4955788
+Cromwell Brew House,PubTAB Self Service Only,"71 The Mall, Cromwell, New Zealand",Cromwell,Otago,-45.0367443,169.1978615
+Victoria Arms Hotel,PubTAB Self Service Only,"65 Melmore Terrace, Cromwell, New Zealand",Cromwell,Otago,-45.0489102,169.2054726
+Merrylees Hotel,PubTAB Full Service,"Station & Hall Streets, Dannevirke, New Zealand",Dannevirke,Manawatu-Wanganui,-40.2084283,176.0966382
+Dannevirke Services Club,ClubTAB Self Service Only,"1 Princess Street, Dannevirke, New Zealand",Dannevirke,Manawatu-Wanganui,-40.2070939,176.0973227
+Mangatera Hotel,PubTAB Self Service Only,"391 High Street, Dannevirke, New Zealand",Dannevirke,Manawatu-Wanganui,-40.1909861,176.1126395
+Darfield Hotel,PubTAB Full Service,"37/39 South Terrace, Darfield, New Zealand",Darfield,Canterbury,-43.4898504,172.110889
+Dargaville Sports Bar,PubTAB Full Service,"70 Victoria Street, Dargaville, New Zealand",Dargaville,Northland,-35.9420402,173.8692496
+Murphy's Law Irish Bar,PubTAB Self Service Only,"200 Great South Road, Drury, New Zealand",Drury,Auckland,-37.1007618,174.9515078
+South Dunedin Branch,TAB Store,"123 Hillside Road, South Dunedin, Dunedin, New Zealand",Dunedin,Otago,-45.8931089,170.4991886
+Waterloo Hotel,PubTAB Self Service Only,"19 Ruskin Terrace, Caversham, Dunedin, New Zealand",Dunedin,Otago,-45.8988077,170.4845839
+Catlins Inn,PubTAB Self Service Only,"21 Ryley Street, Owaka, Dunedin, New Zealand",Dunedin,Otago,-46.4492299,169.6614411
+White Horse Inn Milton,PubTAB Self Service Only,"147 Union Street, Milton, Dunedin, New Zealand",Dunedin,Otago,-46.1187786,169.9621085
+Equinox Restaurant & Bar,PubTAB Full Service,"146 Victoria Road, St Kilda, Dunedin, New Zealand",Dunedin,Otago,-45.907983,170.4988881
+Tipplers Bar,PubTAB Self Service Only,"11B North Road, North East Valley, Dunedin, New Zealand",Dunedin,Otago,-45.8547099,170.5191396
+Law Courts Hotel,PubTAB Self Service Only,"53 Stuart Street, Dunedin Central, Dunedin, New Zealand",Dunedin,Otago,-45.8751093,170.5066618
+Commercial Tavern Green Island,PubTAB Full Service,"237 Main South Road, Green Island, Dunedin, New Zealand",Dunedin,Otago,-45.9027529,170.4242604
+Hotel Taieri,PubTAB Self Service Only,"6 Gordon Road, Mosgiel, Dunedin, New Zealand",Dunedin,Otago,-45.8847124,170.3535448
+Dunedin Central,TAB Store,"320 Moray Place, Dunedin, New Zealand",Dunedin,Otago,-45.8736767,170.50529
+Baaa Sports Bar & Cafe,PubTAB Full Service,"746 Great King Street, Dunedin, New Zealand",Dunedin,Otago,-45.8591486,170.5134227
+Cableways Tavern,PubTAB Self Service Only,"3 Mellor Street, Dunedin, New Zealand",Dunedin,Otago,-45.8654294,170.4841723
+Concord Inn,PubTAB Self Service Only,"12 Main South Road, Dunedin, New Zealand",Dunedin,Otago,-45.9025674,170.4570441
+Mornington Tavern,PubTAB Full Service,"36 Mailer Street, Dunedin, New Zealand",Dunedin,Otago,-45.881345,170.4791115
+St Kilda Tavern,PubTAB Self Service Only,"2 Prince Albert Road, Dunedin, New Zealand",Dunedin,Otago,-45.8997364,170.5034584
+Valley Lodge Hotel,PubTAB Self Service Only,"139 Kaikorai Valley Road, Dunedin, New Zealand",Dunedin,Otago,-45.8684723,170.4768688
+Pioneer Tavern,PubTAB Full Service,"Pioneer Tavern, 14 Ferry Road, Edendale, New Zealand",Edendale,Northland,-46.3119382,168.7859783
+Plains Hotel Edgecumbe,PubTAB Full Service,"11/19 College Road, Edgecumbe, New Zealand",Edgecumbe,Bay of Plenty,-37.9750879,176.8281001
+Coronation Hotel,PubTAB Full Service,"67 Bridge Street, Eltham, New Zealand",Eltham,Taranaki,-39.4305934,174.2980268
+Empire Hotel Featherston,PubTAB Full Service,"Johnston & Harrison Streets, Featherston, New Zealand",Featherston,Wellington,-41.1129383,175.3287207
+Feilding Hotel,PubTAB Full Service,"9 Manchester Square, Feilding, New Zealand",Feilding,Manawatu-Wanganui,-40.226316,175.5636121
+Empire Tavern Feilding,PubTAB Full Service,"8 Stafford Street, Feilding, New Zealand",Feilding,Manawatu-Wanganui,-40.2269024,175.5674353
+Village Inn,PubTAB Full Service,"Geraldine Village Inn, 41 Talbot Street, Geraldine, New Zealand",Geraldine,Canterbury,-44.0916313,171.2444862
+Gisborne Tatapouri Sports Fishing Club,PubTAB Self Service Only,"54 Esplanade, Inner Kaiti, Gisborne, New Zealand",Gisborne,Gisborne,-38.6706364,178.0306501
+Gisborne,TAB Store,"43 Peel Street, Gisborne, New Zealand",Gisborne,Gisborne,-38.6659664,178.0261491
+Gisborne Cosy,PubTAB Full Service,"190 Derby Street, Gisborne, New Zealand",Gisborne,Gisborne,-38.6658816,178.0209978
+Traffers,PubTAB Full Service,"18/20 Hokonui Drive, Gore, New Zealand",Gore,Southland,-46.09682,168.9456024
+Gore RSA,ClubTAB Self Service Only,"12 Bowler Avenue, Gore, New Zealand",Gore,Southland,-46.1019384,168.9426879
+Gore Town & Country Club,ClubTAB Self Service Only,"2 Bury Street, Gore, New Zealand",Gore,Southland,-46.1090474,168.9403593
+Paroa Hotel,PubTAB Self Service Only,"508 Main South Road, Paroa, Greymouth, New Zealand",Greymouth,West Coast,-42.5114811,171.167685
+Australasian Hotel,PubTAB Full Service,"201 High Street, Greymouth, New Zealand",Greymouth,West Coast,-42.468604,171.1907103
+Railway Hotel Greymouth,PubTAB Self Service Only,"120 Mawhera Quay, Greymouth, New Zealand",Greymouth,West Coast,-42.4480666,171.2134345
+Recreation Hotel,PubTAB Self Service Only,"68 High Street, Greymouth, New Zealand",Greymouth,West Coast,-42.4601012,171.2006421
+Sth Wairarapa WMC,PubTAB Full Service,"120 Main Street, Greytown, New Zealand",Greytown,Wellington,-41.0805536,175.4599601
+5 Crossroads Sports Bar,PubTAB Full Service,"236 Peachgrove Road, , Claudelands, Hamilton, New Zealand",Hamilton,Waikato,-37.7729692,175.2942124
+The Riv Bars and Cafe,PubTAB Self Service Only,"Unit 10, Clyde Street Shopping Centre, Hamilton East, Hamilton, New Zealand",Hamilton,Waikato,-37.7917794,175.2929596
+Flagstaff Cafe and Sports Bar,PubTAB Self Service Only,"Shop 4, Flagstaff Shopping Centre, River Road North, Hamilton, New Zealand",Hamilton,Waikato,-37.7383737,175.2524793
+Te Rapa New,TAB Store,"618 Te Rapa Road, Te Rapa, Hamilton, New Zealand",Hamilton,Waikato,-37.7560862,175.2448632
+Dinsdale Tavern,PubTAB Full Service,"140 Whatawhata Road, Dinsdale, Hamilton, New Zealand",Hamilton,Waikato,-37.7965011,175.2398362
+Frankton,TAB Store,"20 King Street, Frankton, Hamilton, New Zealand",Hamilton,Waikato,-37.7865333,175.2687745
+Te Rapa Tavern,PubTAB Full Service,"45 Sunshine Avenue, Te Rapa, Hamilton, New Zealand",Hamilton,Waikato,-37.7599561,175.2430158
+Brews Chartwell,PubTAB Full Service,"13 Lynden Court, Chartwell, Hamilton, New Zealand",Hamilton,Waikato,-37.7504224,175.2775275
+Yardhouse Grandview,PubTAB Full Service,"66 Hyde Avenue, Nawton, Hamilton, New Zealand",Hamilton,Waikato,-37.7814846,175.2370996
+Eastside Tavern,PubTAB Full Service,"Cnr Cook & Grey Street, Hamilton East, Hamilton, New Zealand",Hamilton,Waikato,-37.7936818,175.2934917
+Aleways Inn,PubTAB Self Service Only,"Cnr Commerce & High Sts, Frankton, Hamilton, New Zealand",Hamilton,Waikato,-37.7888989,175.2637402
+The Hillcrest Tavern,PubTAB Self Service Only,"Cnr Clyde & York Streets, Hamilton East, Hamilton, New Zealand",Hamilton,Waikato,-37.7902615,175.308264
+Royal Oak Hotel Tapu,PubTAB Self Service Only,"State Highway 25, Tapu, Hamilton, New Zealand",Hamilton,Waikato,-37.0611649,175.524513
+The Top Pub,PubTAB Self Service Only,"State Highway 26, Morrinsville, Hamilton, New Zealand",Hamilton,Waikato,-37.8009225,175.3227068
+Hamilton Cosy Club,PubTAB Full Service,"End of Claudelands Road, Hamilton, New Zealand",Hamilton,Waikato,-37.7844987,175.283087
+SkyCity Hamilton Zone Bar and Vue Bar,PubTAB Self Service Only,"346 Victoria Street, Hamilton, New Zealand",Hamilton,Waikato,-37.7872027,175.2833016
+Square Leg,PubTAB Full Service,"38A Hood Street, Hamilton, New Zealand",Hamilton,Waikato,-37.7907328,175.2850518
+Alpine Village Inn,PubTAB Self Service Only,"10 Jacks Pass Road, Hanmer Springs, New Zealand",Hanmer Springs,Canterbury,-42.521111,172.8282892
+Flaxmere Tavern,PubTAB Full Service,"Swansea Road, Flaxmere, Hastings, New Zealand",Hastings,Hawke's Bay,-39.6272239,176.7877467
+Horse & Hound Hawkes Bay,PubTAB Full Service,"1012 Karamu Road North, Mayfair Shopping Centre, Hastings, New Zealand",Hastings,Hawke's Bay,-39.6354330363881, 176.85643774192667
+Elbowroom Sports Bar,PubTAB Full Service,"1001 Tomoana Road, Mahora, Hastings, New Zealand",Hastings,Hawke's Bay,-39.6282706,176.8508854
+Stortford Lodge Branch,TAB Store,"1017 Heretaunga Street West, Hastings, New Zealand",Hastings,Hawke's Bay,-39.6318499,176.8328606
+Clubs Hastings,PubTAB Full Service,"308 Victoria Street, Hastings, New Zealand",Hastings,Hawke's Bay,-39.6406518,176.8512482
+National Service Club,PubTAB Full Service,"Market Street, Hastings, New Zealand",Hastings,Hawke's Bay,-39.6430167,176.8393805
+Zabeels Sports Bar,PubTAB Full Service,"115 King Street North, Hastings, New Zealand",Hastings,Hawke's Bay,-39.6397181,176.842336
+Turks Bar,PubTAB Full Service,"5 Napier Road, Havelock North, New Zealand",Havelock North,Hawke's Bay,-39.6695362,176.877479
+Havelock North Club,ClubTAB Self Service Only,"4 Campbell Street, Havelock North, New Zealand",Havelock North,Hawke's Bay,-39.6723331,176.8795176
+The Local Hawera,PubTAB Full Service,"110 Princes Street, Hawera, New Zealand",Hawera,Taranaki,-39.588872,174.2841933
+Rough Habits,PubTAB Self Service Only,"79/81 Regent Street, Hawera, New Zealand",Hawera,Taranaki,-39.5892838,174.2822413
+South Taranaki Club,ClubTAB Self Service Only,"38 Caledonia Street, Hawera, New Zealand",Hawera,Taranaki,-39.5909462,174.2859277
+Kaipara Tavern New,PubTAB Self Service Only,"26 Commercial Road, Helensville, New Zealand",Helensville,Auckland,-36.6779171,174.4498561
+Pioneer Hotel,PubTAB Self Service Only,"80 Gibson Quay, Hokitika, New Zealand",Hokitika,West Coast,-42.7203688,170.9648519
+Railway Hotel Hokitika,PubTAB Full Service,"34 Weld Street, Hokitika, New Zealand",Hokitika,West Coast,-42.7179207,170.9636783
+Essex Arms,PubTAB Full Service,"151 Main Street, Huntly, New Zealand",Huntly,Waikato,-37.5601265,175.1589282
+Hairy Dog,PubTAB Full Service,"33 Rata Street, Inglewood, New Zealand",Inglewood,Taranaki,-39.1560093,174.2062613
+Waikiwi Tavern,PubTAB Full Service,"181 North Road, Waikiwi, Invercargill, New Zealand",Invercargill,Southland,-46.3816259,168.3476473
+Northern Tavern TAB,PubTAB Full Service,"Cnr St Andrew & Sydney Streets, Invercargill, New Zealand",Invercargill,Southland,-46.4031639,168.3646736
+Sth Invercargill Branch,TAB Store,"261 Elles Road, Invercargill, New Zealand",Invercargill,Southland,-46.4279612,168.3612557
+Ascot Park Hotel,PubTAB Full Service,"Tay Street & Racecourse Road, Invercargill, New Zealand",Invercargill,Southland,-46.4041514,168.3926141
+Clifton Inn,PubTAB Full Service,"Armagh & Wicklow Streets, Invercargill, New Zealand",Invercargill,Southland,-46.4502851,168.3645383
+Eastern Suburbs Tavern,PubTAB Full Service,"Glengarry Crescent, Invercargill, New Zealand",Invercargill,Southland,-46.401311,168.3861046
+Homestead Tavern Avenal,PubTAB Full Service,"Avenal Street, Invercargill, New Zealand",Invercargill,Southland,-46.3993268,168.347195
+Invercargill WMC,PubTAB Full Service,"154 Esk Street, Invercargill, New Zealand",Invercargill,Southland,-46.4115783,168.355896
+Kelvin Hotel,PubTAB Full Service,"20 Kelvin Street, Invercargill, New Zealand",Invercargill,Southland,-46.4121618,168.3504392
+Newfield Tavern,PubTAB Full Service,"317A Centre Street, Invercargill, New Zealand",Invercargill,Southland,-46.4226818,168.390478
+Southland Tavern,PubTAB Full Service,"410 Elles Road, Invercargill, New Zealand",Invercargill,Southland,-46.4355128,168.3617365
+Pineacres Restaurant & Bar,PubTAB Self Service Only,"740 Main North Road, RD 1, Kaiapoi, New Zealand",Kaiapoi,Canterbury,-43.3510787,172.6640436
+Kaiapoi WMC,PubTAB Full Service,"113 Raven Quay, Kaiapoi, New Zealand",Kaiapoi,Canterbury,-43.3822567,172.6557348
+Kaikanui Tavern,PubTAB Full Service,"67 Williams Street, Kaiapoi, New Zealand",Kaiapoi,Canterbury,-43.3865607,172.6550103
+The Bank Bar,PubTAB Self Service Only,"124-126 Broadway, Kaikohe, New Zealand",Kaikohe,Northland,-35.4074419,173.7999209
+The Lobster Inn,PubTAB Full Service,"115 Beach Road, Kaikoura, New Zealand",Kaikoura,Canterbury,-42.3892191,173.6789766
+Kauri Arms,PubTAB Full Service,"195 Commerce Street, Kaitaia, New Zealand",Kaitaia,Northland,-35.1109346,173.2613312
+The Boohai,PubTAB Full Service,"112A Main Road, Katikati, New Zealand",Katikati,Bay of Plenty,-37.5582442,175.9160898
+Cayman Sports Bar,PubTAB Full Service,"10 Jellicoe Court, Kawerau, New Zealand",Kawerau,Bay of Plenty,-38.0873222,176.7018723
+Kawerau Cosy Club,ClubTAB Self Service Only,"107/109 Onslow Street, Kawerau, New Zealand",Kawerau,Bay of Plenty,-38.0895078,176.701002
+Homestead Tavern Kerikeri,PubTAB Full Service,"15 Homestead Road, Kerikeri, New Zealand",Kerikeri,Northland,-35.2271941,173.9467925
+Huapai Tavern,PubTAB Full Service,"301 Main Road, Huapai, Kumeu, New Zealand",Kumeu,Auckland,-36.772922,174.5471959
+Waitaki Hotel,PubTAB Self Service Only,"37 Bledisloe Street, Kurow, New Zealand",Kurow,Canterbury,-44.7339114,170.470175
+Coach & Horses Inn,PubTAB Self Service Only,"7 Ross Place, Lawrence, New Zealand",Lawrence,Otago,-45.9132432,169.687775
+Crate & Barrel,PubTAB Self Service Only,"3 Market Street, Leeston, New Zealand",Leeston,Canterbury,-43.7631245,172.2950861
+Levin Sports Bar,PubTAB Full Service,"19 Queen Street, Levin, New Zealand",Levin,Manawatu-Wanganui,-40.6217268,175.2857382
+O'Malleys Bar,PubTAB Full Service,"102 Oxford Street, Levin, New Zealand",Levin,Manawatu-Wanganui,-40.6263505,175.282251
+FatBoyz,PubTAB Self Service Only,"133/135 Oxford Street, Levin, New Zealand",Levin,Manawatu-Wanganui,-40.6241475,175.2833357
+Levin Cosy,PubTAB Full Service,"47/51 Oxford Street, Levin, New Zealand",Levin,Manawatu-Wanganui,-40.6301679,175.2782588
+The Famous Grouse Hotel,PubTAB Self Service Only,"2 Gerald Street, Lincoln, New Zealand",Lincoln,Canterbury,-43.6399876,172.4844874
+Lower Hutt,TAB Store,"204 High Street, Hutt Central, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.2091744,174.9035212
+Petone TAB,TAB Store,"204 Jackson Street, Petone, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.2249454,174.8767771
+Petone WMC,PubTAB Full Service,"47 Udy Street, Petone, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.221253,174.884331
+The Sin Bin,PubTAB Full Service,"Station Village Complex, 499/501 Hutt Road, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.2124365,174.8902338
+Hutt Park Hotel,PubTAB Full Service,"Randwick Road, Moera, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.2283813,174.9051974
+Fitzroy Tav Wainui,PubTAB Full Service,"9 The Strand, Wainuiomata, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.2593491,174.9430491
+Naenae Hotel,PubTAB Full Service,"5 Vogel Street, Naenae, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.1994259,174.9467489
+Hardware Bar,PubTAB Full Service,"8 Evans Street, Stokes Valley, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.1745325,174.9813917
+Horse and Hound Petone,PubTAB Full Service,"219 Jackson Street, Petone, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.2255542,174.8802123
+Bellevue Gardens,PubTAB Full Service,"140 Woburn Road, Woburn, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.2175303,174.9043788
+BJ s Tavern,PubTAB Self Service Only,"25 Tocker Street, Taita, Lower Hutt, New Zealand",Lower Hutt,Wellington,-41.1787699,174.9607141
+Lyttelton Club,ClubTAB Self Service Only,"23 Dublin Street, Lyttelton, New Zealand",Lyttelton,Canterbury,-43.6011846,172.718417
+Waimate Hotel,PubTAB Self Service Only,"49 Main Road South, Manaia, New Zealand",Manaia,Taranaki,-39.5507909,174.1254037
+Mangawhai Club,ClubTAB Self Service Only,"Molesworth Drive, Mangawhai Heads, Mangawhai, New Zealand",Mangawhai,Northland,-36.1048983,174.5840572
+Mangawhai Tavern,PubTAB Full Service,"Moir Street, Mangawhai, New Zealand",Mangawhai,Northland,-36.126675,174.5728752
+Mangonui Hotel,PubTAB Self Service Only,"112 Waterfront Road, RD 4, Mangonui, New Zealand",Mangonui,Northland,-34.9898793,173.5366923
+Highland Park TAB,TAB Store,"Shop 14, 503 Pakuranga Road, Bucklands Beach, Manukau, New Zealand",Manukau,Auckland,-36.8983035,174.9069402
+Weymouth Cosy Club,PubTAB Full Service,"151 Sykes Road, Manurewa, Manukau, New Zealand",Manukau,Auckland,-37.0418271,174.8824953
+Mangere Cosy Club,PubTAB Full Service,"94/100 Bader Drive, Mangere, Manukau, New Zealand",Manukau,Auckland,-36.968211,174.798263
+The Alamo,PubTAB Self Service Only,"586 Great South Road, Papatoetoe, Manukau, New Zealand",Manukau,Auckland,-36.9806746,174.877385
+Pukemanu Bar & Eatery,PubTAB Full Service,"The Square, Martinborough, New Zealand",Martinborough,Wellington,-41.218207,175.458897
+Captain Cooks Bar & Cafe,PubTAB Self Service Only,"301 Broadway, Marton, New Zealand",Marton,Manawatu-Wanganui,-40.0687123,175.378764
+Kuripuni Sports Bar,PubTAB Full Service,"454 Queen Street, Masterton, New Zealand",Masterton,Wellington,-40.958075,175.6481166
+Jackson St Bar,PubTAB Full Service,"20/22 Jackson Street, Masterton, New Zealand",Masterton,Wellington,-40.9508495,175.6583505
+Wairarapa Services and Citizens Club,ClubTAB Self Service Only,"20 Essex Street, Masterton, New Zealand",Masterton,Wellington,-40.9505529,175.6568254
+Matamata Trac Sports Bar,PubTAB Full Service,"38 Broadway, Matamata, New Zealand",Matamata,Waikato,-37.8086448,175.7717616
+Matamata Club,ClubTAB Self Service Only,"9 Waharoa Road East, Matamata, New Zealand",Matamata,Waikato,-37.8080632,175.771623
+The Falls Hotel Mataura,PubTAB Full Service,"Main Road, Mataura, New Zealand",Mataura,Southland,-46.1904541,168.8694919
+Muddy Waters Irish Pub,PubTAB Self Service Only,"36 Riverbank Road, State Highway 1, Mercer, New Zealand",Mercer,Waikato,-37.2787274,175.0460647
+The Brown Pub,PubTAB Full Service,"Forest Drive & Main Street, Methven, New Zealand",Methven,Canterbury,-43.6286784,171.637718
+Nottingham Castle,PubTAB Full Service,"Cnr Thames and Studholme Street, Morrinsville, New Zealand",Morrinsville,Waikato,-37.6549922,175.5253297
+Crofters Arms Hotel,PubTAB Full Service,"Crofters Arms Hotel, 160 Gordon Road, Mosgiel, New Zealand",Mosgiel,Otago,-45.8738575,170.3473281
+Mosgiel Tavern,PubTAB Self Service Only,"150 Factory Road, Mosgiel, New Zealand",Mosgiel,Otago,-45.8692562,170.3654189
+Post Office Hotel Motueka,PubTAB Full Service,"122 High Street, Motueka, New Zealand",Motueka,Tasman,-41.1102065,173.010872
+Club Mount Maunganui Inc,PubTAB Full Service,"45 Kawaka Street, Mount Maunganui, New Zealand",Mount Maunganui,Bay of Plenty,-37.6500322,176.187792
+Mt Maunganui,TAB Store,"155 Maunganui Road, Mount Maunganui, New Zealand",Mount Maunganui,Bay of Plenty,-37.638095,176.1835856
+Mt Maunganui RSA,PubTAB Self Service Only,"544 Maunganui Road, Mount Maunganui, New Zealand",Mount Maunganui,Bay of Plenty,-37.6566949,176.201687
+Napier Branch,TAB Store,"7 Clive Square West, Napier South, Napier, New Zealand",Napier,Hawke's Bay,-39.4913816,176.9126799
+Dockside Sports Bar,PubTAB Full Service,"10A West Quay, Ahuriri, Napier, New Zealand",Napier,Hawke's Bay,-39.4854014,176.8912227
+Sideline Bar,PubTAB Full Service,"110 Taradale Road, Onekawa, Napier, New Zealand",Napier,Hawke's Bay,-39.505366,176.8842455
+Westshore Hotel,PubTAB Full Service,"85 Meeanee Quay, Westshore, Napier, New Zealand",Napier,Hawke's Bay,-39.4757017,176.8790962
+Bev Ridges on York,PubTAB Full Service,"York & Durham Avenue, Tamatea, Napier, New Zealand",Napier,Hawke's Bay,-39.5107827,176.8676016
+Golden Chance,PubTAB Full Service,"6 Bledisloe Road, Maraenui, Napier, New Zealand",Napier,Hawke's Bay,-39.5145059,176.9042907
+Clive Hotel,PubTAB Full Service,"193 Main Road, Clive, Napier, New Zealand",Napier,Hawke's Bay,-39.5838925,176.9160536
+Duke of Gloucester,PubTAB Self Service Only,"389 Gloucester Street, Taradale, Napier, New Zealand",Napier,Hawke's Bay,-39.5391957,176.8467853
+Napier RSA,PubTAB Full Service,"34 Vautier Street, Napier, New Zealand",Napier,Hawke's Bay,-39.4941257,176.917919
+Star & Garter Richmond,PubTAB Full Service,"252 Queen Street, Richmond, Nelson, New Zealand",Nelson,Nelson,-41.3391379,173.1849171
+Turf Hotel,PubTAB Full Service,"228 Songer Street, Stoke, Nelson, New Zealand",Nelson,Nelson,-41.3134406,173.2333104
+Havelock Hotel,PubTAB Self Service Only,"54 Main Road, Havelock, Nelson, New Zealand",Nelson,Nelson,-41.2793875,173.7672542
+Hardys Bar,PubTAB Full Service,"135 Hardys Street, Nelson, New Zealand",Nelson,Nelson,-41.274078,173.282395
+New Street Steakhouse,PubTAB Self Service Only,"58 Collingwood Street, Nelson, New Zealand",Nelson,Nelson,-41.2716576,173.2868471
+Ocean Lodge Hotel,PubTAB Full Service,"20 Muritai Street, Nelson, New Zealand",Nelson,Nelson,-41.2830244,173.2473213
+Shiftys Bar,PubTAB Full Service,"2 Nugent Street, Bell Block, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0355545,174.14215
+Fitzroy Branch,TAB Store,"545 Devon Street East, Fitzroy, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0493711,174.1014504
+New Plymouth Branch,TAB Store,"Unit 10, 4 Egmont Street, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0570001,174.0699922
+Nag N Noggin,PubTAB Full Service,"57 Tukapa Street, Westown, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0716676,174.0620283
+Rahotu Tavern,PubTAB Full Service,"5787 South Road, Rahotu, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.3279679,173.8034278
+The Salty Dog,PubTAB Full Service,"495 St Aubyn Street, Moturoa, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0631895,174.0456918
+Stumble Inn,PubTAB Self Service Only,"198 Mangorei Road, Merrilands, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0663239,174.1028512
+Sportys Cafe & Bar,PubTAB Full Service,"50 Sackville Street, Fitzroy, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0488759,174.1018029
+Icons Bar,PubTAB Full Service,"7 Brougham Street, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0574588,174.0727618
+New Plymouth Club,PubTAB Full Service,"49-57 Gill Street, New Plymouth, New Zealand",New Plymouth,Taranaki,-39.0559347,174.0762287
+Delta Hotel,PubTAB Self Service Only,"2 Market Street, Ngaruawahia, New Zealand",Ngaruawahia,Waikato,-37.6645067,175.1484279
+Ngatea Hotel,PubTAB Full Service,"32 Orchard Road, Ngatea, New Zealand",Ngatea,Waikato,-37.2758333,175.4952778
+Brownzy Sports Bar,PubTAB Full Service,"775 Beach Road, Browns Bay, North Shore City, New Zealand",North Shore City,Auckland,-36.7152416,174.7431807
+The Postmans Leg,PubTAB Full Service,"Glenfield Road & Downing Street, Glenfield, North Shore City, New Zealand",North Shore City,Auckland,-36.783506,174.7214194
+The Dark Horse,PubTAB Full Service,"70 Parkway Drive, Mairangi Bay, North Shore City, New Zealand 0632",North Shore City,Auckland,-36.7504862,174.7288399
+Pats Garage,PubTAB Full Service,"31 Northcote Road, Northcote, North Shore City, New Zealand",North Shore City,Auckland,-36.7919965,174.7480106
+Northcote Tavern,PubTAB Full Service,"37 Queen Street, Northcote, North Shore City, New Zealand",North Shore City,Auckland,-36.8225455,174.7482928
+Birkenhead RSA,ClubTAB Self Service Only,"Recreation Drive, Birkenhead, North Shore city, New Zealand",North Shore city,Auckland,-36.8055943,174.7242625
+Belmont Bar,PubTAB Self Service Only,"148 Lake Road, Belmont, North Shore City, New Zealand",North Shore City,Auckland,-36.8078282,174.790314
+Ruakaka Tavern,PubTAB Full Service,"Marsden Point Road, Ruakaka, Northland, New Zealand",Northland,Northland,-35.879231,174.4537138
+Sunset Point Mahia,PubTAB Self Service Only,"2 Ratau Street, RD 8, Nuhaka, New Zealand",Nuhaka,Hawke's Bay,-39.0430136,177.7402526
+Sports Central Brewhouse,PubTAB Full Service,"1 Wear Street, Oamaru, New Zealand",Oamaru,Otago,-45.099203,170.971809
+Northstar Restaurant & Bar,PubTAB Self Service Only,"495A Thames Highway, Oamaru, New Zealand",Oamaru,Otago,-45.072943,170.9900182
+Oamaru Club,ClubTAB Self Service Only,"32 Severn Street, Oamaru, New Zealand",Oamaru,Otago,-45.09869,170.9668854
+Ohakune Club,PubTAB Full Service,"71 Goldfinch Street, Ohakune, New Zealand",Ohakune,Manawatu-Wanganui,-39.4130384,175.4034279
+Ohope Club,ClubTAB Self Service Only,"2 Bluett Road, Ohope, New Zealand",Ohope,Bay of Plenty,-37.9724182,177.0586368
+Opononi Hotel,PubTAB Full Service,"State Highway 12, Opononi, New Zealand",Opononi,Northland,-35.4958461,173.4128387
+Masonic Hotel Opotiki,PubTAB Self Service Only,"121 Church Street, Opotiki, New Zealand",Opotiki,Bay of Plenty,-38.0039847,177.28435
+Opotiki County RSA,ClubTAB Self Service Only,"103-105 St John Street, Opotiki, New Zealand",Opotiki,Bay of Plenty,-38.0056365,177.2868562
+Club Hotel Opunake,PubTAB Self Service Only,"100 Tasman Street, Opunake, New Zealand",Opunake,Taranaki,-39.454244,173.8583502
+The Horse and Harp,PubTAB Full Service,"304 Hibiscus Coast Highway, Orewa, New Zealand",Orewa,Auckland,-36.5876964,174.6965336
+The Tele,PubTAB Full Service,"284 Rangiuru Road, Otaki, New Zealand",Otaki,Wellington,-40.7519995,175.1369171
+Railway Hotel Otaki,PubTAB Self Service Only,"6 Arthur Street, Otaki, New Zealand",Otaki,Wellington,-40.7624195,175.1560854
+Otorohanga Club,PubTAB Full Service,"107 Maniapoto Street, Otorohanga, New Zealand",Otorohanga,Waikato,-38.1882778,175.2104481
+Paeroa Hotel New,PubTAB Full Service,"4 Belmont Road, Paeroa, New Zealand",Paeroa,Waikato,-37.3769546,175.6680104
+Ohinemuri Club,PubTAB Full Service,"Princess Street, Paeroa, New Zealand",Paeroa,Waikato,-37.3816314,175.6708484
+Post Office Pahiatua,PubTAB Full Service,"164 Main Street, Pahiatua, New Zealand",Pahiatua,Manawatu-Wanganui,-40.456369,175.8371035
+Tararua Club,ClubTAB Self Service Only,"15 Tararua Street, Pahiatua, New Zealand",Pahiatua,Manawatu-Wanganui,-40.4498474,175.8403382
+Paihia Exservicemens Association,ClubTAB Self Service Only,"Joyces Road, Paihia, New Zealand",Paihia,Northland,-35.2847797,174.0876009
+The Paihia Sports Bar,PubTAB Self Service Only,"10 Selwyn Road, Paihia, New Zealand",Paihia,Northland,-35.281973,174.0905514
+Waihemo Lodge Hotel,PubTAB Self Service Only,"13 Runbrake Street, Palmerston, New Zealand",Palmerston,Otago,-45.483316,170.7170715
+Castle 789,PubTAB Self Service Only,"789 Main Street, Roslyn, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3475478,175.629851
+Cloverlea Tavern,PubTAB Full Service,"301 Tremaine Avenue, Highbury, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3512383,175.5836792
+The Workshop,PubTAB Self Service Only,"171 Fairs Road, Milson, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3382567,175.5991566
+White Horse Inn Awapuni,PubTAB Self Service Only,"90 State Highway 56, Longburn, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3828696,175.5449511
+Palmerston North TAB,TAB Store,"28-32 Fitzherbert Avenue, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3580166,175.612284
+Terrace End,TAB Store,"1/328 Broadway Avenue, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3481992,175.6264039
+Albert Sports Bar,PubTAB Full Service,"692/700 Main Street East, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3500546,175.625547
+Masonic Hotel,PubTAB Full Service,"249 Main Street, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3589609,175.6044387
+Palmerston North Cosy,PubTAB Full Service,"20-24 Linton Street, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3593441,175.6104068
+Sportsmans Bar,PubTAB Full Service,"215 Featherston Street, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3506342,175.6046085
+The Railway Hotel,PubTAB Self Service Only,"275 Main Street, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3584594,175.6056738
+Willow Park Tavern,PubTAB Full Service,"820 Tremaine Avenue, Palmerston North, New Zealand",Palmerston North,Manawatu-Wanganui,-40.3349594,175.6214426
+Papamoa,TAB Store,"Fashion Island Shopping Centre, 38H Gravatt Road, Papamoa Beach, Papamoa, New Zealand",Papamoa,Bay of Plenty,-37.7015787,176.2797471
+The Flying Mullet,PubTAB Full Service,"4/38 Gravatt Road, Papamoa Beach, Papamoa, New Zealand",Papamoa,Bay of Plenty,-37.700998,176.2802963
+Boundary Tap & Kitchen,PubTAB Full Service,"3 Raumati Road, Raumati Beach, Paraparaumu, New Zealand",Paraparaumu,Wellington,-40.9186331,174.9813974
+The Black Stag,PubTAB Full Service,"Kapiti Lights Complex, Amohia Street, Paraparaumu, New Zealand",Paraparaumu,Wellington,-40.9157876,175.0058332
+The Pinetree Arms,PubTAB Full Service,"Corner Of McLean Street and Seaview Road, Paraparaumu Beach, Paraparaumu, New Zealand",Paraparaumu,Wellington,-40.8942831,174.9806966
+The Jolly Pub & Kitchen,PubTAB Full Service,"93 Mazengarb Road, Paraparaumu, New Zealand",Paraparaumu,Wellington,-40.887238,175.0021225
+Crow Tavern,PubTAB Self Service Only,"15 Nelson Square, Picton, New Zealand",Picton,Marlborough,-41.2967653,174.0017093
+Sandbar,PubTAB Full Service,"103 Esplanade, Mana, Porirua, New Zealand",Porirua,Wellington,-41.0946329,174.8690747
+Cannons Creek Branch,TAB Store,"8 Warspite Avenue, Cannons Creek, Porirua, New Zealand",Porirua,Wellington,-41.1411725,174.8650781
+Titahi Bay RSA,ClubTAB Self Service Only,"74 Main Road, Titahi Bay, Porirua, New Zealand",Porirua,Wellington,-41.1086554,174.8402036
+Whitby Co-Op Kitchen & Bar,PubTAB Self Service Only,"69A Discovery Drive, Whitby Mall, Porirua, New Zealand",Porirua,Wellington,-41.1173023,174.8932192
+The Mariner,PubTAB Self Service Only,"19 Whitehouse Road, Titahi Bay, Porirua, New Zealand",Porirua,Wellington,-41.1087903,174.8377892
+Porirua Branch,TAB Store,"2 Serlby Place, Porirua, New Zealand",Porirua,Wellington,-41.1344857,174.8406342
+Porirua Club Wgtn,PubTAB Full Service,"1 Lodge Place, Porirua, New Zealand",Porirua,Wellington,-41.1363278,174.8400594
+Porirua RSA,PubTAB Self Service Only,"5 McKillop Street, Porirua, New Zealand",Porirua,Wellington,-41.1377622,174.8487716
+Mackies Hotel,PubTAB Full Service,"14 George Street, Port Chalmers, New Zealand",Port Chalmers,Dunedin,-45.8154755,170.6216192
+Patumahoe Hotel,PubTAB Full Service,"13 Mauku Road, RD 4, Pukekohe, New Zealand",Pukekohe,Auckland,-37.1879192,174.8272732
+Franklin Club,PubTAB Full Service,"7 East Street, Pukekohe, New Zealand",Pukekohe,Auckland,-37.2009061,174.9088811
+Counties Inn,PubTAB Full Service,"25 Paerata Road, Pukekohe, New Zealand",Pukekohe,Auckland,-37.1887762,174.9022641
+Hog and Hounds Putaruru,PubTAB Full Service,"57 Tirau Street, Putaruru, New Zealand",Putaruru,Waikato,-38.0485789,175.7807082
+Frankton Arm Tavern,PubTAB Self Service Only,"14 Yewlett Crescent, Wakatipu, Queenstown, New Zealand",Queenstown,Otago,-45.0174667,168.727546
+SkyCity Wharf Casino,PubTAB Self Service Only,"88 Beach Street, Steamers Wharf, Queenstown, New Zealand",Queenstown,Otago,-45.0333723,168.6577251
+Pig & Whistle,PubTAB Full Service,"41 Ballarat Street, Queenstown, New Zealand",Queenstown,Otago,-45.0315112,168.6623712
+SkyCity Queenstown Casino,PubTAB Self Service Only,"16/24 Beach Street, Queenstown, New Zealand",Queenstown,Otago,-45.0318348,168.6602246
+Raetihi Cossie Club,ClubTAB Self Service Only,"32 Seddon Street, Raetihi, New Zealand",Raetihi,Manawatu-Wanganui,-39.4273429,175.2798746
+Harbour View Hotel,PubTAB Full Service,"14 Bow Street, Raglan, New Zealand",Raglan,Hamilton,-37.7996974,174.8688394
+Orca Restaurant & Bar,PubTAB Self Service Only,"2 Wallis Street, Raglan, New Zealand",Raglan,Hamilton,-37.799316,174.8676574
+South Rakaia Hotel,PubTAB Self Service Only,"41 Railway Terrace East, Rakaia, New Zealand",Rakaia,Canterbury,-43.7561654,172.0227142
+Ranfurly Hotel,PubTAB Self Service Only,"10 Charlemont Street East, Ranfurly, New Zealand",Ranfurly,Otago,-45.1296691,170.0993582
+Anglers Arms,PubTAB Self Service Only,"573 Upper Sefton Road, RD 2, Rangiora, New Zealand",Rangiora,Canterbury,-43.2722328,172.6079987
+Brook Bar & Eatery,PubTAB Full Service,"16 Southbrook Road, Rangiora, New Zealand",Rangiora,Canterbury,-43.3237212,172.5987574
+Mainstreet Sports Bar,PubTAB Self Service Only,"37 High Street, Rangiora, New Zealand",Rangiora,Canterbury,-43.3032969,172.5972893
+Plough Hotel,PubTAB Self Service Only,"398 High Street, Rangiora, New Zealand",Rangiora,Canterbury,-43.3046854,172.5839767
+Rangiora RSA,ClubTAB Self Service Only,"82 Victoria Street, Rangiora, New Zealand",Rangiora,Canterbury,-43.3046875,172.5959215
+Hotel Reefton,PubTAB Full Service,"75 Broadway, Reefton, New Zealand",Reefton,West Coast,-42.1196545,171.8640457
+Club Waimea,ClubTAB Self Service Only,"345 Queen Street, Richmond, New Zealand",Richmond,Tasman,-41.3367386,173.1818995
+Carriers Arms Hotel,PubTAB Full Service,"96 Palmerston Road, Riverton North, Riverton, New Zealand",Riverton,Southland,-46.3491349,168.0176677
+Rock Restaurant & Bar,PubTAB Full Service,"96 Rolleston Drive, Rolleston, New Zealand",Rolleston,Canterbury,-43.5982624,172.3800305
+Rongotea Tavern,PubTAB Self Service Only,"47 -51 Thames Street, Rongotea, New Zealand",Rongotea,Manawatu-Wanganui,-40.2933894,175.4273076
+Rotorua Club Inc (office),PubTAB Full Service,"1st Floor, Rotorua Racecourse, Fenton Street, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1468599,176.2537285
+Village Sports Bar & Cafe,PubTAB Full Service,"262 Ngongotaha Road, Ngongotaha, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.0816754,176.2127373
+Ruck & Maul Rotorua,PubTAB Full Service,"5 Panui Road, Koutu, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1259757,176.2411146
+Mitchell Downs,PubTAB Full Service,"12 Goldie Street, Pukehangi, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1385124,176.2059997
+Four Winds Tavern Rotorua,PubTAB Self Service Only,"2 Owhata Road, Owhata, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1333369,176.295698
+Jay Bar and Liquor Centre,PubTAB Self Service Only,"2 Brookland Road, Western Heights, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1292774,176.2196149
+Rotorua Central,TAB Store,"1156 Eruera Street, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1390707,176.2517575
+Cheers Bar,PubTAB Full Service,"328/348 Fenton Street, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1543626,176.2547639
+Rotorua C T Club,PubTAB Full Service,"Moncur Drive, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1631916,176.2401126
+Rotorua Citizens Club,ClubTAB Self Service Only,"Arawa & Rangiuru Streets, Rotorua, New Zealand",Rotorua,Bay of Plenty,-38.1349113,176.2500447
+Grand Tav Roxburgh,PubTAB Self Service Only,"94 Scotland Street, Roxburgh, New Zealand",Roxburgh,Otago,-45.5398465,169.3144483
+Runanga WMC,ClubTAB Self Service Only,"McGowan & Pitt Street, Opposite 20 Pitt Street, Runanga, New Zealand",Runanga,West Coast,-42.3971207,171.2524342
+Thoroughbred Tavern,PubTAB Full Service,"2 The Furlong, Great South Road, Takanini, South Auckland, New Zealand",South Auckland,Auckland,-37.053245,174.9323778
+Pukekohe Cosy,PubTAB Full Service,"78 Nelson Street, Pukekohe, South Auckland, New Zealand",South Auckland,Auckland,-37.211185,174.9019305
+Papatoetoe Cosy,PubTAB Full Service,"53 Rangitoto Street., Papatoetoe, South Auckland, New Zealand",South Auckland,Auckland,-36.9781759,174.8526502
+Papakura Tavern,PubTAB Self Service Only,"159 Great South Road, Papakura, South Auckland, New Zealand",South Auckland,Auckland,-37.0626934,174.941927
+Papakura RSA,ClubTAB Self Service Only,"40 Elliott Street, Papakura, South Auckland, New Zealand",South Auckland,Auckland,-37.065464,174.9367147
+Papakura Club,PubTAB Full Service,"5 Croskery Road, Papakura, South Auckland, New Zealand",South Auckland,Auckland,-37.0710523,174.9636869
+Southbridge Hotel,PubTAB Self Service Only,"97 High Street, Southbridge, New Zealand",Southbridge,Canterbury,-43.8112539,172.2521324
+Empire Stratford,PubTAB Full Service,"Broadway & Fenton Street, Stratford, New Zealand",Stratford,Taranaki,-39.341025,174.285035
+New Commercial Hotel Stratford,PubTAB Self Service Only,"339 Broadway, Stratford, New Zealand",Stratford,Taranaki,-39.3425227,174.2857466
+Gretna Htl Taihape,PubTAB Self Service Only,"117 Hautapu Street, Taihape, New Zealand",Taihape,Manawatu-Wanganui,-39.6757834,175.7983399
+Taipa Tavern,PubTAB Self Service Only,"Shop 1, Taipa Mall, State Highway 10, Taipa, New Zealand",Taipa,Northland,-34.996249,173.4666774
+Punters Bar Tairua,PubTAB Self Service Only,"Shop 3, The Mall, Main Road, Tairua, New Zealand",Tairua,Waikato,-37.001992,175.8483498
+The Blacksmith,PubTAB Self Service Only,"1/30 Walters Road, Takanini, New Zealand",Takanini,Auckland,-37.0488393,174.9326609
+Forest Lodge Hotel,PubTAB Self Service Only,"Northumberland Street, Tapanui, New Zealand",Tapanui,Otago,-45.9434447,169.264313
+Meeanee Hotel,PubTAB Self Service Only,"340 Meeanee Road, Taradale, New Zealand",Taradale,Hawke's Bay,-39.5434892,176.8917435
+Taradale Club,PubTAB Full Service,"55 Wharerangi Road, Taradale, New Zealand",Taradale,Hawke's Bay,-39.5163963,176.8575884
+Taumarunui Cosmopolitan Club,PubTAB Full Service,"Katarina & Miriama Streets, Taumarunui, New Zealand",Taumarunui,Manawatu-Wanganui,-38.8843962,175.2592249
+Taupiri Tavern,PubTAB Self Service Only,"2 The Crescent, Taupiri, New Zealand",Taupiri,Waikato,-37.6140652,175.1899308
+Taupo Branch,TAB Store,"36 Tuwharetoa Street, Taupo, New Zealand",Taupo,Waikato,-38.6887159,176.0708623
+Taupo Cossie Club,PubTAB Full Service,"5 Taniwha Street, Taupo, New Zealand",Taupo,Waikato,-38.6858487,176.0744202
+Taupo Lucky Lizard,PubTAB Self Service Only,"32 Richmond Avenue, Taupo, New Zealand",Taupo,Waikato,-38.7150157,176.0910045
+The Matua,PubTAB Self Service Only,"Shop 6, Cnr Warrington Street, Matua, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.6660865,176.1252477
+AJs Bar Maungatapu,PubTAB Self Service Only,"Shop G, 289 Maungatapu Road, Maungatapu, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.7163926,176.1791302
+Bethlehem TAB,TAB Store,"245 State Highway 2, Bethlehem, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.6958721,176.10805
+Greerton (New),TAB Store,"1333 Cameron Road, Gate Pa, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.7263347,176.1322482
+Cruzaz Bar,PubTAB Self Service Only,"265 Otumoetai Road, Otumoetai, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.6813846,176.1364165
+Te Puna Tavern,PubTAB Full Service,"15 Minden Road, R D 6, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.6960992,176.0735559
+Judea Tavern,PubTAB Full Service,"35 Koromiko Street, Judea, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.6997876,176.1506245
+Cameron Road (New),TAB Store,"501 Cameron Road, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.6971061,176.1596965
+Tauranga Citizens Club,PubTAB Full Service,"170 13th Avenue, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.7008818,176.155907
+City Sports Bar,PubTAB Full Service,"20 Hamilton Street, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.6824472,176.1690646
+Welcome Bay Sports Bar,PubTAB Full Service,"250 Welcome Bay Road, Tauranga, New Zealand",Tauranga,Bay of Plenty,-37.7254569,176.1920037
+Moose Bar,PubTAB Full Service,"Lakefront Drive, Te Anau, New Zealand",Te Anau,Southland,-45.4210412,167.7152763
+Te Anau Club,ClubTAB Self Service Only,"Corner Of Pop Andrew Dr & Jackson Street, Te Anau, New Zealand",Te Anau,Southland,-45.4145389,167.7207886
+Te Aroha Grand Tavern,PubTAB Full Service,"81 Whitaker Street, Te Aroha, New Zealand",Te Aroha,Waikato,-37.5453433,175.7141052
+Palace Hotel,PubTAB Self Service Only,"165 Whitaker Street, Te Aroha, New Zealand",Te Aroha,Waikato,-37.5431398,175.7118901
+Star Tavern,PubTAB Self Service Only,"58 Lyon Street, Kihikihi, Te Awamutu, New Zealand",Te Awamutu,Waikato,-38.0389158,175.3450253
+The Firkin Sports Bar,PubTAB Full Service,"235 Sloane Street, Te Awamutu, New Zealand",Te Awamutu,Waikato,-38.0124029,175.3260638
+The Oval Sports Bar,PubTAB Full Service,"1/670 Cambridge Road, Te Awamutu, New Zealand",Te Awamutu,Waikato,-38.0067827,175.3394964
+Waipa WMC,PubTAB Full Service,"139 Albert Park Road, Te Awamutu, New Zealand",Te Awamutu,Waikato,-38.0121322,175.3277057
+Rangiriri Hotel,PubTAB Full Service,"Talbot Street, Rangiriri, Te Kauwhata, New Zealand",Te Kauwhata,Waikato,-37.4298242,175.133673
+Riverside Lodge,PubTAB Self Service Only,"1 Riverside Lane, Te Kuiti, New Zealand",Te Kuiti,Waikato,-38.3337033,175.1672854
+Waitomo Club,ClubTAB Self Service Only,"King Street East, Te Kuiti, New Zealand",Te Kuiti,Waikato,-38.3330924,175.1657869
+Stadium Sports Bar Te Puke,PubTAB Full Service,"91 Jellicoe Street, Te Puke, New Zealand",Te Puke,Bay of Plenty,-37.7847325,176.3270735
+Crown Hotel,PubTAB Full Service,"64 King Street, Temuka, New Zealand",Temuka,Canterbury,-44.2456424,171.2781749
+Punters Sports Bar,PubTAB Full Service,"719 Pollen Street, Thames, New Zealand",Thames,Waikato,-37.1350946,175.5401135
+Ascot Sports House,PubTAB Self Service Only,"198 Hilton Highway, Washdyke, Timaru, New Zealand",Timaru,Canterbury,-44.3554276,171.2378194
+Old Bank Cafe & Bar,PubTAB Full Service,"5 Church Street, Timaru, New Zealand",Timaru,Canterbury,-44.3955292,171.2520774
+Richard Pearse Tavern,PubTAB Full Service,"118 Le Cren Street, Timaru, New Zealand",Timaru,Canterbury,-44.3953776,171.2396213
+Timaru Town & Country Club,ClubTAB Self Service Only,"99 Douglas Street, Timaru, New Zealand",Timaru,Canterbury,-44.3854871,171.2259244
+Tinwald Tavern,PubTAB Full Service,"102/3 Archibald Street, Tinwald, New Zealand",Tinwald,Canterbury,-43.9136804,171.731819
+Trees Tavern Tokoroa,PubTAB Full Service,"1-5 Balmoral Drive, Tokoroa, New Zealand",Tokoroa,Waikato,-38.2335,175.8790908
+Tokoroa Club,ClubTAB Self Service Only,"Chambers Street, Tokoroa, New Zealand",Tokoroa,Waikato,-38.2145996,175.8686488
+Tokoroa Cosmopolitan Club,ClubTAB Self Service Only,"275 Balmoral Drive, Tokoroa, New Zealand",Tokoroa,Waikato,-38.2325983,175.8533487
+Elsie's Restaurant & Bar,PubTAB Full Service,"3 George Street, Tuakau, New Zealand",Tuakau,Waikato,-37.2576315,174.9471655
+Tuakau Cosy Club,PubTAB Full Service,"11 Carr Street, Tuakau, New Zealand",Tuakau,Waikato,-37.2601366,174.9482394
+Turangi Tavern,PubTAB Full Service,"277 Te Rangitautahanga Road, Turangi, New Zealand",Turangi,Waikato,-38.9902063,175.809324
+Top Hut Sports Bar,PubTAB Full Service,"13 Tasman Road, Twizel, New Zealand",Twizel,Canterbury,-44.257845,170.0978804
+Charltons Silverstream,PubTAB Self Service Only,"Shop 9, The Village, Silverstream, Upper Hutt, New Zealand",Upper Hutt,Wellington,-41.1476959,175.011485
+The Tote and Furnace,PubTAB Full Service,"74 Ararino Street, Trentham, Upper Hutt, New Zealand",Upper Hutt,Wellington,-41.1377588,175.037099
+Upper Hutt Cosi Club,PubTAB Full Service,"11 Logan Street, Upper Hutt, New Zealand",Upper Hutt,Wellington,-41.1223194,175.0720911
+Upper Hutt TAB,TAB Store,"44 Main Street, Upper Hutt, New Zealand",Upper Hutt,Wellington,-41.1249144,175.0673145
+7 Bar,PubTAB Self Service Only,"3 King Street, Upper Hutt, New Zealand",Upper Hutt,Wellington,-41.1236313,175.0748743
+Quinns Post Hotel Wgtn,PubTAB Full Service,"2 Ward Street, Upper Hutt, New Zealand",Upper Hutt,Wellington,-41.1269615,175.0534231
+Rimutaka Tavern,PubTAB Full Service,"1223-1253 Fergusson Drive, Upper Hutt, New Zealand",Upper Hutt,Wellington,-41.1078065,175.0976109
+Urenui Hotel,PubTAB Self Service Only,"14 Whakapaki Street, Urenui, New Zealand",Urenui,Taranaki,-38.9972662,174.3892929
+Waiheke RSA,PubTAB Self Service Only,"29 Belgium Street, Ostend, Waiheke Island, New Zealand",Waiheke Island,Auckland,-36.7961918,175.0474578
+Commercial Hotel Waihi,PubTAB Full Service,"6 Seddon Street, Waihi, New Zealand",Waihi,Bay of Plenty,-37.3922061,175.8392855
+Waihi Beach Hotel,PubTAB Self Service Only,"60 Wilson Road, Waihi Beach, New Zealand",Waihi Beach,Bay of Plenty,-37.4088245,175.9376906
+Waihi Beach Memorial RSA,ClubTAB Self Service Only,"99 Beach Road, Waihi Beach, New Zealand",Waihi Beach,Bay of Plenty,-37.4066061,175.9361295
+Waihou Tavern,PubTAB Full Service,"State Highway 26, RD 3, Waihou, New Zealand",Waihou,Waikato,-37.5738065,175.6748264
+Waikanae Chartered Club,PubTAB Full Service,"8 Elizabeth Street, Waikanae, New Zealand",Waikanae,Wellington,-40.8779862,175.065793
+Golden Fleece Hotel,PubTAB Full Service,"Main Road, Waikouaiti, New Zealand",Waikouaiti,Otago,-45.5955482,170.6703988
+Royal Tavern,PubTAB Full Service,"30 Shearman Street, Waimate, New Zealand",Waimate,Canterbury,-44.7326855,171.0456608
+Palliser Hotel,PubTAB Full Service,"11 Moores Valley Rd, Wainuiomata, New Zealand",Wainuiomata,Wellington,-41.271762,174.9552301
+Skinny Mulligans,PubTAB Full Service,"Islington Drive, Waipawa, New Zealand",Waipawa,Hawke's Bay,-39.9429078,176.5872304
+Waipu Hotel,PubTAB Self Service Only,"4 South Road, Waipu, New Zealand",Waipu,Northland,-35.9854532,174.4473781
+Leopard Hotel,PubTAB Full Service,"Ruataniwha Street, Waipukurau, New Zealand",Waipukurau,Hawke's Bay,-39.9955329,176.5563149
+Wairoa Club,PubTAB Full Service,"Marine Parade & Paul Street, Wairoa, New Zealand",Wairoa,Hawke's Bay,-39.0338474,177.4184146
+Clyde Hotel,PubTAB Self Service Only,"162 Marine Parade, Wairoa, New Zealand",Wairoa,Hawke's Bay,-39.0334901,177.4210984
+Waitara Services & Citizens Club,PubTAB Full Service,"16 Queen Street, Waitara, New Zealand",Waitara,Taranaki,-39.0020172,174.2382409
+Waitara T&C Club(office),ClubTAB Self Service Only,"33/39 West Quay, Waitara, New Zealand",Waitara,Taranaki,-39.0000577,174.2383656
+Waiuku Cosy Club,PubTAB Full Service,"4 Victoria Avenue, Waiuku, New Zealand",Waiuku,Auckland,-37.2513527,174.7326043
+Kentish Hotel,PubTAB Full Service,"5 Queen Street, Waiuku, New Zealand",Waiuku,Auckland,-37.2483377,174.7299227
+The Bullock Bar,PubTAB Full Service,"71 Ardmore Street, Wanaka, New Zealand",Wanaka,Otago,-44.6942015,169.1374559
+Lake Bar,PubTAB Self Service Only,"155 Ardmore street, Wanaka, New Zealand",Wanaka,Otago,-44.6959344,169.1335293
+Wanganui East Club,PubTAB Full Service,"101 Wakefield Street, Wanganui East, Wanganui, New Zealand",Wanganui,Manawatu-Wanganui,-39.9171857,175.0754569
+Castlecliff Club,ClubTAB Self Service Only,"Tennyson Street, Castlecliff, Wanganui, New Zealand",Wanganui,Manawatu-Wanganui,-39.9422025,174.9922237
+Sportz Bar,PubTAB Full Service,"197 Victoria Avenue, Wanganui, New Zealand",Wanganui,Manawatu-Wanganui,-39.9306099,175.0477981
+St Johns Club,PubTAB Full Service,"158 Glasgow Street, Wanganui, New Zealand",Wanganui,Manawatu-Wanganui,-39.9248273,175.0398252
+Club Metro,ClubTAB Self Service Only,"13 Ridgeway Street, Wanganui, New Zealand",Wanganui,Manawatu-Wanganui,-39.9324473,175.055628
+Warkworth Inn,PubTAB Full Service,"9 Queen Street, Shop 4, Warkworth, New Zealand",Warkworth,Northland,-36.3976519,174.6651789
+Rusty Pelican,PubTAB Self Service Only,"1001 Matakana Road, Matakana, Warkworth, New Zealand",Warkworth,Northland,-36.3525437,174.7174774
+Warkworth & Districts RSA,PubTAB Self Service Only,"28 Neville Street, Warkworth, New Zealand",Warkworth,Northland,-36.399887,174.6640848
+Courtenay Place Branch,TAB Store,"89 Courtenay Place, Wellington Central, Wellington, New Zealand",Wellington,Wellington,-41.2930456,174.7794139
+Naenae,TAB Store,"33 Hillary Court, Lower Hutt, Wellington, New Zealand",Wellington,Wellington,-41.1983544,174.9479622
+Newtown Branch,TAB Store,"225 Riddiford Street, Newtown, Wellington, New Zealand",Wellington,Wellington,-41.3153516,174.7805141
+Johnsonville,TAB Store,"28 Johnsonville Road, Johnsonville, Wellington, New Zealand",Wellington,Wellington,-41.2228985,174.80693
+Wainuiomata Branch,TAB Store,"10A The Strand, Wainuiomata, Wellington, New Zealand",Wellington,Wellington,-41.2597209,174.9426132
+Bay 66,PubTAB Full Service,"66 Bay Road, Kilbirnie, Wellington, New Zealand",Wellington,Wellington,-41.3194634,174.7941449
+888 Sport Bar & Restaurant,PubTAB Self Service Only,"207-209 Main Road, Tawa, Wellington, New Zealand",Wellington,Wellington,-41.1688634,174.8247819
+Four Kings,PubTAB Full Service,"Hope Gibbons Building, 7-11 Dixon Street, Wellington, New Zealand",Wellington,Wellington,-41.292409,174.778383
+Island Bay Bar,PubTAB Full Service,"134 The Parade, Island Bay, Wellington, New Zealand",Wellington,Wellington,-41.3344999,174.7732456
+Clockwork Gold,PubTAB Full Service,"191 Main Road, Tawa, Wellington, New Zealand",Wellington,Wellington,-41.1694849,174.8247155
+The Realm,PubTAB Full Service,"7 Moxham Avenue, Hataitai, Wellington, New Zealand",Wellington,Wellington,-41.3046708,174.7940488
+Newlands Arms,PubTAB Self Service Only,"15 Batchelor Street, Newlands, Wellington, New Zealand",Wellington,Wellington,-41.2232884,174.821602
+Johnsonville Club,PubTAB Full Service,"1 Norman Lane, Johnsonville, Wellington, New Zealand",Wellington,Wellington,-41.2232361,174.8085049
+Shepherds Arms Hotel,PubTAB Self Service Only,"285 Tinakori Road, Thorndon, Wellington, New Zealand",Wellington,Wellington,-41.2783227,174.7700756
+The Pickle Jar,PubTAB Self Service Only,"5 Parkvale Road, Karori, Wellington, New Zealand",Wellington,Wellington,-41.2843219,174.7370239
+Khandallah Trading Company,PubTAB Self Service Only,"5 Ganges Road, Khandallah, Wellington, New Zealand",Wellington,Wellington,-41.2465181,174.7910411
+Strathmore Local Restaurant & Bar,PubTAB Self Service Only,"3/5 Strathmore Avenue, Strathmore, Wellington, New Zealand",Wellington,Wellington,-41.3251801,174.8205801
+Brooklyn Bar and Bistro,PubTAB Self Service Only,"55 Cleveland Street, Brooklyn, Wellington, New Zealand",Wellington,Wellington,-41.3053213,174.7639897
+The Corner Bar,PubTAB Self Service Only,"Bay & Rongotai Roads, Kilbirnie, Wellington, New Zealand",Wellington,Wellington,-41.3177909,174.7948019
+Victoria Bowling Club,PubTAB Self Service Only,"125 Pirie Street, Mt Victoria, Wellington, New Zealand",Wellington,Wellington,-41.2985019,174.7890396
+Cambridge Hotel Wgtn,PubTAB Full Service,"28 Cambridge Terrace, Wellington, New Zealand",Wellington,Wellington,-41.2950726,174.7827443
+The Bond Sports Bar,PubTAB Full Service,"12 Bond Street, Wellington, New Zealand",Wellington,Wellington,-41.2890935,174.7754581
+Featherston Bar & Grill,PubTAB Self Service Only,"Featherston & Johnston Streets, Wellington, New Zealand",Wellington,Wellington,-41.282917,174.7772186
+Green Man Wellington,PubTAB Self Service Only,"Cnr Victoria & Willeston Streets, Wellington, New Zealand",Wellington,Wellington,-41.2867228,174.7770872
+Trax Branch,TAB Store,"Wellington Railway Station, Cnr Featherston Street & Platform 1/Bunny Street, Wellington Central, New Zealand",Wellington Central,Wellington,-41.279214,174.78034
+Wellsford Inn,PubTAB Full Service,"184 Rodney Street, Wellsford, New Zealand",Wellsford,Auckland,-36.2935669,174.5242248
+Te Atatu Tavern,PubTAB Self Service Only,"3 Pringle Road, Te Atatu Peninsula, West Auckland, New Zealand",West Auckland,Auckland,-36.8423091,174.653274
+Henderson RSA,ClubTAB Self Service Only,"66/70 Railside Avenue, Henderson, West Auckland, New Zealand",West Auckland,Auckland,-36.8823708,174.6313347
+Black & White Hotel,PubTAB Full Service,"198 Palmerston Street, Westport, New Zealand",Westport,West Coast,-41.7557557,171.5985123
+The Kope Turf Bar,PubTAB Full Service,"9 James Street, Kopeopeo, Whakatane, New Zealand",Whakatane,Bay of Plenty,-37.9615398,176.9812032
+The Office,PubTAB Self Service Only,"80/82 The Strand, Whakatane, New Zealand",Whakatane,Bay of Plenty,-37.9502718,176.9979101
+Whakatane RSA,ClubTAB Self Service Only,"13 Richardson Street, Whakatane, New Zealand",Whakatane,Bay of Plenty,-37.9535693,176.9940651
+Bucks Sports Bar & Grill,PubTAB Full Service,"100 Casement Road, Whangamata, New Zealand",Whangamata,Waikato,-37.2043138,175.8728065
+Whangamata Club,ClubTAB Self Service Only,"404 Port Road, Whangamata, New Zealand",Whangamata,Waikato,-37.2097213,175.8698745
+Wanganui TAB,TAB Store,"5A Puriri Street, Gonville, Whanganui, New Zealand",Whanganui,Manawatu-Wanganui,-39.9414444,175.0220034
+Stables Bar,PubTAB Full Service,"5/707 Whangaparaoa Road, Stanmore Bay, Whangaparaoa, New Zealand",Whangaparaoa,Auckland,-36.6354509,174.7459185
+Onerahi Tavern,PubTAB Full Service,"Waverley Street & Onerahi Road, Onerahi, Whangarei, New Zealand",Whangarei,Northland,-35.7543486,174.3683532
+Triple Crown,PubTAB Full Service,"Unit C, 47 Vine Street, Whangarei, New Zealand",Whangarei,Northland,-35.7264939,174.3206678
+Kamo Club,PubTAB Full Service,"7/11 Meldrum Street, Kamo, Whangarei, New Zealand",Whangarei,Northland,-35.6807059,174.3016047
+Parua Bay Tavern,PubTAB Self Service Only,"1034 Whangarei Heads Road, RD 4, Whangarei, New Zealand",Whangarei,Northland,-35.7728484,174.4517783
+Kensington Tavern,PubTAB Full Service,"Davies Street & Kensington Avenue, Whangarei, New Zealand",Whangarei,Northland,-35.7086454,174.3208956
+Grand Hotel Whangarei,PubTAB Self Service Only,"2 Bank Street, Whangarei, New Zealand",Whangarei,Northland,-35.7263411,174.3193674
+Judge House of Ale,PubTAB Self Service Only,"57 Walton Street, Whangarei, New Zealand",Whangarei,Northland,-35.7259395,174.3225669
+Northland Club,ClubTAB Self Service Only,"8 Porowini Avenue, Whangarei, New Zealand",Whangarei,Northland,-35.7295354,174.3163107
+Tote & Poke Sports Bar,PubTAB Full Service,"79 Cameron Street, Whangarei, New Zealand",Whangarei,Northland,-35.7262461,174.3213324
+Frankies Sports Bar & Grill,PubTAB Full Service,"37 Albert Street, Whitianga, New Zealand",Whitianga,Waikato,-36.8336523,175.7044207
+Mercury Bay Club,ClubTAB Self Service Only,"Cook Drive & Campbell Street, Whitianga, New Zealand",Whitianga,Waikato,-36.835231,175.700909
+Central Southland Lodge,PubTAB Full Service,"232 Great North Road, Winton, New Zealand",Winton,Southland,-46.1431348,168.3250863
+The Woodend Tavern,PubTAB Self Service Only,"51 Main North Road, Woodend, New Zealand",Woodend,Canterbury,-43.3233615,172.665422
+New Central Motor Inn,PubTAB Self Service Only,"63-65 Vogel Street, Woodville, New Zealand",Woodville,Manawatu-Wanganui,-40.3372186,175.8677881
+Three Rivers Hotel,PubTAB Self Service Only,"17 Redan Street, Wyndham, New Zealand",Wyndham,Southland,-46.3281815,168.8495913
